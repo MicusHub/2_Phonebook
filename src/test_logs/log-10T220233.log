@@ -1,0 +1,6 @@
+22:02:33.761 [Test worker] INFO  com.phonebook.TestBase -- ==== TESTING IN PROGRESS ====
+22:02:36.106 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest2]
+22:02:37.211 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest2], wiith data [passsword=Password123@, email=dfge345f@gmail.com]
+22:02:37.212 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+22:02:37.212 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+22:02:37.215 [Test worker] INFO  com.phonebook.TestBase -- ==== ALL TEST END ====

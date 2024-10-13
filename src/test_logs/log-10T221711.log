@@ -1,0 +1,15 @@
+22:17:11.291 [Test worker] INFO  com.phonebook.TestBase -- ==== TESTING IN PROGRESS ====
+22:17:13.205 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1]
+22:17:14.310 [Test worker] INFO  com.phonebook.TestBase -- Test is started wiith data: []
+22:17:14.311 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1], with data []
+22:17:14.311 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
+22:17:14.314 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest2]
+22:17:14.751 [Test worker] INFO  com.phonebook.TestBase -- Test is started wiith data: [passsword=Password123@, email=dfge345f@gmail.com]
+22:17:14.751 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2], with data [passsword=Password123@, email=dfge345f@gmail.com]
+22:17:14.751 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+22:17:14.752 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginNegativeWithOutEmailTest]
+22:17:15.379 [Test worker] WARN  com.phonebook.core.BaseHelper -- Alert has text: [Wrong email or password]
+22:17:20.395 [Test worker] INFO  com.phonebook.TestBase -- Test is started wiith data: [passsword=Password123@, email=dfge345f@gmail.com]
+22:17:20.396 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginNegativeWithOutEmailTest], with data [passsword=Password123@, email=dfge345f@gmail.com]
+22:17:20.396 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginNegativeWithOutEmailTest]
+22:17:20.399 [Test worker] INFO  com.phonebook.TestBase -- ==== ALL TEST END ====

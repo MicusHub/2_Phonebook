@@ -1,0 +1,3 @@
+23:32:09.958 [Test worker] INFO  com.phonebook.TestBase -- ==== TESTING IN PROGRESS ====
+23:32:12.242 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1]
+23:32:13.328 [Test worker] INFO  com.phonebook.TestBase -- ==== ALL TEST END ====

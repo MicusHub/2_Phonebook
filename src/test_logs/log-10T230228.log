@@ -1,0 +1,7 @@
+23:02:28.479 [Test worker] INFO  com.phonebook.TestBase -- ==== TESTING IN PROGRESS ====
+23:02:30.882 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [CreateAccountNegativeTest]
+23:02:32.207 [Test worker] WARN  com.phonebook.core.BaseHelper -- Alert has text: [User already exist]
+23:02:32.233 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+23:02:32.233 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [CreateAccountNegativeTest], with data []
+23:02:32.233 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [CreateAccountNegativeTest]
+23:02:32.237 [Test worker] INFO  com.phonebook.TestBase -- ==== ALL TEST END ====

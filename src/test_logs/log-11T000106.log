@@ -1,0 +1,15 @@
+00:01:07.003 [Test worker] INFO  com.phonebook.TestBase -- ==== TESTING IN PROGRESS ====
+00:01:08.987 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [CreateAccountNegativeTest]
+00:01:10.991 [Test worker] WARN  com.phonebook.core.BaseHelper -- Alert has text: [User already exist]
+00:01:11.027 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+00:01:11.027 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [CreateAccountNegativeTest], with data []
+00:01:11.027 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [CreateAccountNegativeTest]
+00:01:11.030 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1]
+00:01:12.342 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+00:01:12.342 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1], with data []
+00:01:12.342 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
+00:01:12.343 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest2]
+00:01:13.522 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: [passsword=Password123@, email=dfge345f@gmail.com]
+00:01:13.522 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2], with data [passsword=Password123@, email=dfge345f@gmail.com]
+00:01:13.525 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+00:01:13.529 [Test worker] INFO  com.phonebook.TestBase -- ==== ALL TEST END ====

@@ -1,0 +1,5 @@
+16:15:45.049 [Test worker] INFO  com.phonebook.TestBase -- ==== TESTING IN PROGRESS ====
+16:15:46.778 [Test worker] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1]
+16:15:48.364 [Test worker] INFO  com.phonebook.core.BaseHelper -- Screenshot saved to path: [/Users/a1234/QA_lessons/2_PhoneBook/src/test_screenshots/screen-1728569747961.png]
+16:15:48.364 [Test worker] INFO  com.phonebook.TestBase -- Test is FAILED: [loginExistedUserPositiveTest1], Screenshot: [/Users/a1234/QA_lessons/2_PhoneBook/src/test_screenshots/screen-1728569747961.png]
+16:15:48.367 [Test worker] INFO  com.phonebook.TestBase -- ==== ALL TEST END ====
